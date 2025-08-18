@@ -1,2 +1,2 @@
-I am kuldeep patel and I am currently studing in codinggita in kalol
-which collabrates with swaminarayan university.
+Hello Git and GitHub!
+This is my second update
